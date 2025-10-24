@@ -48,8 +48,9 @@ while True:
 
 <hr>
 <h2>Output:</h2>
-<img width="611" height="728" alt="image" src="https://github.com/user-attachments/assets/5a7861ef-99cb-450f-a86a-1ba78b834dcc" />
-<img width="408" height="693" alt="image" src="https://github.com/user-attachments/assets/5570dedb-e40d-4296-bd4a-f91dec0ada76" />
+<img width="548" height="612" alt="image" src="https://github.com/user-attachments/assets/5ff51ae8-1b1e-4b08-b57f-01755c8c5a7e" />
+<img width="405" height="611" alt="image" src="https://github.com/user-attachments/assets/d7e18ea0-c19f-4c89-a94c-74a8719e04e3" />
+
 
 
 <h3>RESULT:</h3>
