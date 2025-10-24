@@ -9,7 +9,7 @@ Feedback is provided in terms of heuristic function
 </p>
 
 
-<h2>Algorithm:</h2>
+<h2>Algorithm:</h2> 
 <p>
 <ol>
  <li> Generate a random initial solution of the same length as the target.</li> 
